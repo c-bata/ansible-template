@@ -23,6 +23,13 @@ This is my ansible template.
 4. Run ansible-playbook.
 
 
+## ansible-galaxy's bookmark
+
+- nginx: `ansible-galaxy install jdauphant.nginx`
+- elasticsearch: `ansible-galaxy install geerlingguy.elasticsearch`
+- mysql: `ansible-galaxy install geerlingguy.mysql`
+- postgresql: `ansible-galaxy install zenoamaro.postgresql`
+
 ## License
 
 This template is licensed under the MIT License.
