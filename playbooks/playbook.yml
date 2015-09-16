@@ -1,0 +1,13 @@
+---
+- name: Ansible template
+
+  hosts: log
+  sudo: yes
+
+  tasks:
+    - name: add a new user
+      user: name=deploy
+
+  roles:
+    - example
+

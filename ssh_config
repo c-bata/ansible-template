@@ -1,0 +1,9 @@
+Host web
+    HostName xxx.x.x.x
+	User vagrant
+	Port 22
+	PasswordAuthentication no
+	IdentityFile ./ssh/id_rsa-example
+	IdentitiesOnly yes
+	LogLevel FATAL
+
