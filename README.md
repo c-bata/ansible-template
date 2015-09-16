@@ -25,6 +25,5 @@ This is my ansible template.
 
 ## License
 
-This repository is licensed under MIT.
-
+This template is licensed under the MIT License.
 
