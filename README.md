@@ -25,10 +25,23 @@ This is my ansible template.
 
 ## ansible-galaxy's bookmark
 
-- nginx: `ansible-galaxy install jdauphant.nginx`
-- elasticsearch: `ansible-galaxy install geerlingguy.elasticsearch`
-- mysql: `ansible-galaxy install geerlingguy.mysql`
-- postgresql: `ansible-galaxy install zenoamaro.postgresql`
+You should watch https://github.com/geerlingguy?tab=repositories
+
+- https://github.com/geerlingguy/ansible-role-nginx
+- https://github.com/geerlingguy/ansible-role-elasticsearch
+- https://github.com/geerlingguy/ansible-role-gitlab
+- https://github.com/geerlingguy/ansible-role-jenkins
+- https://github.com/geerlingguy/ansible-role-selenium
+- https://github.com/geerlingguy/ansible-role-dotfiles
+- https://github.com/geerlingguy/ansible-role-security
+- https://github.com/geerlingguy/ansible-role-firewall
+- https://github.com/geerlingguy/ansible-role-repo-remi
+- https://github.com/geerlingguy/ansible-role-mysql
+- https://github.com/geerlingguy/ansible-role-redis
+
+**Others**
+
+- https://github.com/geerlingguy/ansible-vagrant-examples
 
 ## License
 
